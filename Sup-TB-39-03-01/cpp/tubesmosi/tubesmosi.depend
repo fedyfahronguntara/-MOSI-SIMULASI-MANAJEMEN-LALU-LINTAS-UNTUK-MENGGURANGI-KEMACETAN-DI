@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1525246875 source:f:\tubes\tubes mosi\cpp\cpp\tubesmosi\main.cpp
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<algorithm>
+	<queue>
+	<stack>
+	<assert.h>
+	<set>
+
+1525246875 source:f:\tubes\tubes mosi\tb-39-03-01\sup-tb-39-03-01\cpp\tubesmosi\main.cpp
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<algorithm>
+	<queue>
+	<stack>
+	<assert.h>
+	<set>
+
